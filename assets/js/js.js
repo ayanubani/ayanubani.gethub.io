@@ -1,6 +1,6 @@
 jQuery(($) => {
     // The speed of the scroll in milliseconds
-    const speed = 1000;
+    const speed = 100;
   
     $('a[href*="#"]')
       .filter(

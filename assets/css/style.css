@@ -5019,7 +5019,13 @@ textarea.input100 {
       transform: rotate(360deg);
   }
 }
- 
+
+.ml-auto{
+  margin-left: auto!important;
+}
+.mr-auto{
+  margin-right: auto!important;
+}
  
 
   
